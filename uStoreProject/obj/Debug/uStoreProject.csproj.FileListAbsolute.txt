@@ -1,0 +1,219 @@
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\roslyn\csc.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\roslyn\vbc.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\uStoreProject.dll.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\uStoreProject.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\uStoreProject.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Antlr3.Runtime.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\EntityFramework.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\EntityFramework.SqlServer.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.Owin.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Newtonsoft.Json.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Owin.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\System.Web.Helpers.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\System.Web.Mvc.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\System.Web.Optimization.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\System.Web.Razor.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\System.Web.WebPages.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\uStore.Data.EF.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\uStore.Domain.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\WebGrease.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\uStore.Data.EF.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\uStore.Domain.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\System.Web.Helpers.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\System.Web.Mvc.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\System.Web.Optimization.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\System.Web.Razor.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\System.Web.WebPages.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Antlr3.Runtime.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Newtonsoft.Json.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\EntityFramework.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\EntityFramework.SqlServer.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.Owin.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\obj\Debug\uStoreProject.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\obj\Debug\uStoreProject.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\MVC1\uStoreProject\uStoreProject\obj\Debug\uStoreProject.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\roslyn\csc.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\roslyn\vbc.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\uStoreProject.dll.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\uStoreProject.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\uStoreProject.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Antlr3.Runtime.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\EntityFramework.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\EntityFramework.SqlServer.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.Owin.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Newtonsoft.Json.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Owin.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\System.Web.Helpers.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\System.Web.Mvc.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\System.Web.Optimization.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\System.Web.Razor.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\System.Web.WebPages.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\WebGrease.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\System.Web.Helpers.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\System.Web.Mvc.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\System.Web.Optimization.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\System.Web.Razor.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\System.Web.WebPages.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Antlr3.Runtime.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Newtonsoft.Json.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\EntityFramework.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\EntityFramework.SqlServer.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.Owin.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\obj\Debug\uStoreProject.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\obj\Debug\uStoreProject.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\obj\Debug\uStoreProject.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\uStore.Data.EF.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\uStore.Domain.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\uStore.Data.EF.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStoreProject\bin\uStore.Domain.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\roslyn\csc.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\roslyn\vbc.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\uStoreProject.dll.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\uStoreProject.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\uStoreProject.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Antlr3.Runtime.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\EntityFramework.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\EntityFramework.SqlServer.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.Owin.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Newtonsoft.Json.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Owin.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\System.Web.Helpers.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\System.Web.Mvc.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\System.Web.Optimization.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\System.Web.Razor.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\System.Web.WebPages.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\uStore.Data.EF.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\uStore.Domain.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\WebGrease.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\uStore.Data.EF.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\uStore.Domain.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\System.Web.Helpers.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\System.Web.Mvc.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\System.Web.Optimization.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\System.Web.Razor.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\System.Web.WebPages.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Antlr3.Runtime.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Newtonsoft.Json.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\EntityFramework.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\EntityFramework.SqlServer.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.Owin.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\obj\Debug\uStoreProject.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\obj\Debug\uStoreProject.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStoreProject\obj\Debug\uStoreProject.pdb
