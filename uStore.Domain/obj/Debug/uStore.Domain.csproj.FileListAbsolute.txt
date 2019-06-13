@@ -1,0 +1,24 @@
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStore.Domain\bin\Debug\uStore.Domain.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStore.Domain\bin\Debug\uStore.Domain.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStore.Domain\obj\Debug\uStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStore.Domain\obj\Debug\uStore.Domain.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStore.Domain\obj\Debug\uStore.Domain.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStore.Domain\bin\Debug\uStore.Domain.dll.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStore.Domain\bin\Debug\uStore.Data.EF.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\uStoreProject\uStore.Domain\bin\Debug\uStore.Data.EF.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStore.Domain\bin\Debug\uStore.Domain.dll.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStore.Domain\bin\Debug\uStore.Domain.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStore.Domain\bin\Debug\uStore.Domain.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStore.Domain\bin\Debug\uStore.Data.EF.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStore.Domain\bin\Debug\uStore.Data.EF.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStore.Domain\obj\Debug\uStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStore.Domain\obj\Debug\uStore.Domain.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\_MAJOR PROJECTS\uStoreProject\uStore.Domain\obj\Debug\uStore.Domain.pdb
